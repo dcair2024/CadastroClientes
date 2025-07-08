@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CadastroClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\user\\source\\repos\\cadastroclientes\\cadastroclientes\\readme.md.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\readme.md.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\user\\source\\repos\\cadastroclientes\\cadastroclientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\user\\source\\repos\\cadastroclientes\\cadastroclientes\\migrations\\20250708142623_criartabelaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\migrations\\20250708142623_criartabelaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\user\\source\\repos\\cadastroclientes\\cadastroclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\user\\source\\repos\\cadastroclientes\\cadastroclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\user\\source\\repos\\cadastroclientes\\cadastroclientes\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\user\\source\\repos\\cadastroclientes\\cadastroclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\user\\source\\repos\\cadastroclientes\\cadastroclientes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC627028-2FAC-4531-A0C1-81798BFFEF16}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\README.md.txt",
+              "RelativeDocumentMoniker": "CadastroClientes\\README.md.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\README.md.txt*",
+              "RelativeToolTip": "CadastroClientes\\README.md.txt*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-08T15:00:58.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "CadastroClientes\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "CadastroClientes\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T14:48:15.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "CadastroClientes\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:36:34.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250708142623_CriarTabelaClientes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Migrations\\20250708142623_CriarTabelaClientes.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Migrations\\20250708142623_CriarTabelaClientes.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Migrations\\20250708142623_CriarTabelaClientes.cs",
+              "RelativeToolTip": "CadastroClientes\\Migrations\\20250708142623_CriarTabelaClientes.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:26:23.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Program.cs",
+              "RelativeToolTip": "CadastroClientes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:21:20.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\appsettings.json",
+              "RelativeDocumentMoniker": "CadastroClientes\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\appsettings.json",
+              "RelativeToolTip": "CadastroClientes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T13:49:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "CadastroClientes\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:05:10.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CadastroClientes\\CadastroClientes\\Models\\Cliente.cs",
+              "RelativeToolTip": "CadastroClientes\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:50:00.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
